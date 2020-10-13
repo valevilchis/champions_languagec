@@ -1,0 +1,97 @@
+16
+2
+2
+0
+1
+Hugo Lloris
+Portero
+1
+2
+0
+13
+Michel Vorm 
+Portero
+2
+3
+5
+6
+Davinson Sanchez 
+Defensa Central
+0
+1
+2
+4
+Toby Alderweireld 
+Defensa Central
+4
+5
+6
+5
+Jan Vertonghen 
+Defensa Central
+5
+6
+7
+3
+Danny Rose 
+Lateral Izquierdo
+2
+3
+4
+33
+Ben Davies 
+Lateral Izquierdo
+3
+4
+5
+2
+Kieran Trippier 
+Lateral Derecho
+0
+1
+2
+8
+Harry Winks 
+Medio Centro
+2
+3
+4
+17
+Moussa Sissoko 
+Medio Centro
+0
+5
+12
+20
+Dele Alli 
+Medio Centro Ofensivo
+2
+3
+8
+7
+Heung-min Son 
+Extremo Izquierdo
+1
+2
+9
+27
+Lucas Moura 
+Extremo Derecho
+9
+2
+3
+10
+Harry Kane 
+Delantero Centro
+3
+2
+14
+9
+Vincent Janssen 
+Delantero Centro
+2
+3
+16
+18
+Fernando Llorente 
+Delantero Centro

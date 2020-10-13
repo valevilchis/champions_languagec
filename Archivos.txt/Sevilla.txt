@@ -1,0 +1,97 @@
+16
+0
+2
+0
+1
+Tomas Vaclik 
+Portero
+1
+2
+0
+13
+Juan Soriano 
+Portero
+1
+2
+7
+3
+Sergi Gomez 
+Defensa Central
+2
+3
+8
+14
+Maximilian Wober 
+Defensa Central
+1
+2
+3
+24
+Joris Gnagnon 
+Defensa Central
+4
+5
+8
+6
+Daniel Carrico 
+Defensa Central
+2
+3
+9
+18
+Sergio Escudero 
+Lateral Izquierdo
+2
+9
+5
+23
+Guillherme Arana 
+Lateria Izquierdo
+2
+6
+7
+10
+Ever Banega 
+Medio Centro
+8
+5
+6
+20
+Marko Rog 
+Medio Centro
+8
+7
+3
+7
+Roque Mesa 
+Medio Centro
+2
+7
+8
+17
+Pablo Sarabia 
+Medio Centro Ofensivo
+1
+2
+9
+21
+Quincy Promes 
+Extremo Izquierdo
+6
+9
+12
+9
+Wilssam Ben Yedder 
+Delantero Centro
+1
+5
+15
+12
+Andre Sila 
+Delantero Centro
+2
+5
+18
+19
+Munir Haddadi
+Delantero Centro

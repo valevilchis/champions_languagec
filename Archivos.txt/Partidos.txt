@@ -1,0 +1,35 @@
+16
+ 'La Ceramica'
+Villareal[ ] vs [ ]Sevilla
+ 'Ramon Sanchez-Pizjuan'
+Sevilla[ ] vs [ ]Villareal
+ 'Giuseppe Meazza'
+Milan[ ] vs [ ]Manchester United
+ 'Old Trafford'
+Manchester United[ ] vs [ ]Milan
+ 'Amsterdam Arena'
+Ajax[ ] vs [ ] Porto
+ 'Do Dragao'
+Porto[ ] vs [ ]Ajax
+ 'Tottenhan'
+Tottenham Hotspor[ ] vs [ ]Barcelona
+ 'Camp Nou'
+Barcelona[ ] vs [ ]Tottenham Hotsport
+ 'Allianz Arena'
+Bayern Munich[ ] vs [ ]Real Madrid
+ 'Santiago Bernabeu'
+Real Madrid[ ] vs [ ]Bayern Munich
+ Estadio 'Anfield'
+Liverpool[ ] vs [ ]Roma
+ 'Olimpico de Roma'
+Roma[ ] vs [ ]Liverpool
+ 'Allianz'
+Juventus[ ] vs [ ]Paris Saint-Germain
+ 'Le parc des Princes'
+Paris Saint-Germain[ ] vs [ ]Juventus
+ 'Wanda Metropolitano'
+Atletico Madrid[ ] vs [ ]Monaco
+ 'Louiss II'
+Monaco[ ] vs [ ]Atletico Madrid
+
+

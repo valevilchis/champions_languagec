@@ -1,0 +1,97 @@
+16
+2
+4
+0
+1
+Sergio Asejno
+Portero
+1
+5
+0
+13
+Andres Fernandez 
+Portero
+0
+6
+12
+3
+Alvaro Gonzales 
+Central
+2
+3
+11
+4
+Ramiro Funes Mori 
+Central
+2
+2
+5
+23
+Daniele Bonera 
+Central
+1
+6
+9
+16
+Alfonso Pedraza 
+Lateral Izquierdo
+1
+2
+7
+11
+Jaume Costa 
+Laterl Izquierdo
+1
+4
+8
+2
+Marios Gaspar 
+Lateral Derecho
+3
+2
+8
+14
+Manu Trigueros 
+Medio Centro
+3
+2
+9
+19
+Santi Cazorla 
+Medio Centro
+2
+1
+8
+28
+Manu Morlanes 
+Medio Centro
+1
+2
+10
+9
+Carlos Bacca 
+Delantero Centro
+2
+3
+12
+17
+Karl Toko Ekambi 
+Delantero Centro
+3
+4
+9
+7
+Gerard Moreno 
+Delantero Centro
+2
+3
+8
+22
+Daniel Raba 
+Lateral Derecho
+2
+3
+10
+8
+Pablo Fornals 
+Medio Centro Ofensivo

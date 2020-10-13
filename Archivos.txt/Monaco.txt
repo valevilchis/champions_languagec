@@ -1,0 +1,97 @@
+16
+2
+6
+0
+1
+D. Subasic
+Portero
+1
+2
+0
+16
+D. Benaglio
+Portero
+8
+9
+10
+5
+Jemerson
+Defensa Central
+2
+7
+8
+2
+F. Ballo-Toure
+Lateral Izquierdo
+1
+5
+7
+21
+J. Serrano
+Lateral Izquierdo
+1
+2
+8
+19
+D. Sidibe
+Lateral Derecho
+6
+5
+18
+41
+G. Biancone
+Lateral Derecho
+2
+7
+17
+44
+C. Fabregas
+Medio Centro
+1
+6
+29
+15
+A. Silva
+Medio Centro
+3
+7
+19
+31
+R. Faivre
+Medio Centro
+6
+7
+20
+13
+W. Geubbels
+Extremo Izquierdo
+3
+7
+18
+20
+N. Chadli
+Extremo Izquierdo
+3
+8
+19
+7
+Rony Lopes
+Extremo Derecho
+3
+7
+18
+29
+G. Martins
+Extremo Derecho
+2
+7
+15
+9
+Falcao
+Delantero Centro
+2
+7
+23
+10
+S. Jovetic
+Delantero Centro

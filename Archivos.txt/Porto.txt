@@ -1,0 +1,97 @@
+16
+0
+1
+0
+1
+Iker Casilla
+Portero
+2
+0
+0
+26
+Vana Alves
+Portero
+1
+3
+0
+3
+Eder Militao
+Defensa Central
+3
+8
+9
+28
+Felipe
+Defensa Central
+2
+3
+9
+4
+Digo Leite
+Defensa Central
+1
+2
+9
+13
+Alex Telles
+Lateral Izquierdo
+2
+7
+8
+12
+Wilson Manafa
+Lateral Derecho
+2
+7
+9
+2
+Maxi Pereira
+Lateral Derecho
+1
+2
+19
+16
+Hector Herrera
+Medio Centro
+1
+8
+16
+10
+Oliver Torres
+Medio Centro
+1
+5
+18
+17
+Jesus Corona
+Interior Derecho
+1
+2
+18
+25
+Otavio
+Medio Centro Ofensivo
+4
+8
+20
+6
+Bruno Costa
+Medio Centro Ofensivo
+1
+2
+17
+9
+Vincent Aboubakar
+Delantero Centro
+0
+2
+18
+29
+Tiquinho Soares
+Delantero Centro
+2
+3
+16
+21
+Andre Pereira
+Delantero Centro

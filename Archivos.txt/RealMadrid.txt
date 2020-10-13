@@ -1,0 +1,97 @@
+16
+1
+2
+0
+25
+T. Courtois
+Portero
+1
+1
+0
+1
+K. Navas
+Portero
+1
+2
+1
+5
+R. Varane 
+Defensa Central
+1
+2
+19
+4
+S. Ramos
+Defensa Central
+1
+2
+9
+12
+Marcelo
+Lateral Izquierdo
+1
+2
+19
+23
+S. Reguilon
+Lateral Izquierdo
+1
+6
+7
+2
+D. Carvajal 
+Lateral Derecho
+2
+8
+4
+19
+A. Odriozola
+Lateral Derecho
+2
+9
+18
+10
+L. Modric
+Medio Centro
+1
+2
+17
+24
+D. Ceballos
+Medio Centro
+0
+1
+18
+22
+Isco
+Medio Centro Ofensivo
+1
+2
+19
+20
+M. Asensio
+Extremo Izquierdo
+0
+1
+17
+28
+Vinicius Junior
+Extremo Izquierdo
+2
+3
+16
+11
+G. Bale
+Extremo Derecho
+2
+8
+17
+9
+K. Benzema
+Delantero Centro
+2
+6
+2
+7
+M. Diaz
+Delantero Centro

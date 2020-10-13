@@ -1,0 +1,97 @@
+16
+2
+1
+0
+99
+Gianluigi Donnarumma
+Portero
+2
+0
+1
+25
+Pepe Reina
+Portero
+2
+5
+10
+13
+Alessio Romagnoli
+Defensa Central
+2
+19
+3
+33
+Mattia Caldara
+Defensa Central
+5
+10
+29
+22
+Mateo Musacchio
+Defensa Central
+2
+3
+7
+17
+Cristian Zapata
+Defensa Central
+2
+5
+9
+68
+Ricardo Rodriguez
+Lateral Izquierdo
+2
+6
+7
+23
+Ivan Strinic
+Lateral Izquierdo
+2
+7
+19
+2
+Davide Calabria
+Lateral Derecho
+2
+7
+19
+12
+Andrea Conti
+Lateral Derecho
+2
+8
+19
+79
+Franck Kessie
+Medio Centro
+1
+2
+19
+16
+Andrea Bertolacci
+Medio Centro
+1
+17
+19
+4
+Jose Mauri
+Medio Centro
+1
+8
+32
+7
+Samu Castillejo
+Extremo Derecho
+2
+7
+18
+19
+Krzysztof Piatek
+Delantero Centro
+0
+8
+18
+63
+Patrick Cutrone
+Delantero Centro

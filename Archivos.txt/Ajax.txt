@@ -1,0 +1,97 @@
+16
+2
+6
+0
+24
+Andre Onana
+Portero
+3
+5
+0
+28
+Bruno Varela
+Portero
+2
+6
+19
+4
+Mattijs de Ligt
+Defensa Central
+2
+18
+19
+17
+Daley Blind
+Defensa Central
+4
+5
+18
+16
+Lisandro Magallan
+Defensa Central
+1
+6
+20
+31
+Nicolas Tagliafico
+Lateral Izquierdo
+4
+8
+27
+8
+Daley Sinkgraven
+Lateral Izquierdo
+4
+7
+19
+2
+Rasmus Kristensen
+Lateral Derecho
+3
+7
+19
+21
+Frenkie de Jong
+Medio Centro
+3
+7
+19
+30
+Dani de Wit
+Medio Centro
+7
+9
+29
+40
+Jurgen Ekkelenkamp
+Medio Centro
+3
+8
+19
+19
+Zakaria Labyad
+Medio Centro Ofensivo
+3
+7
+8
+37
+Noa Lang Medio
+Centro Ofensivo
+7
+29
+18
+7
+David Neres
+Extremo Derecho
+2
+7
+19
+25
+Kasper Dolberg
+Delantero Centro
+2
+7
+29
+9
+Klass-Jan Huntelaar
+Delantero Centro

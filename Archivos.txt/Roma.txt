@@ -1,0 +1,97 @@
+16
+0
+1
+0
+1
+R. Olsen
+Portero
+1
+4
+0
+83
+A. Mirante 
+Portero
+1
+2
+8
+44
+K. Manolas
+Defensa Central
+2
+5
+9
+20
+F. Fazio
+Defensa Central
+1
+2
+8
+11
+A. Kolarov
+Lateral Izquierdo
+1
+5
+6
+18
+D. Santon
+Lateral Izquiero
+2
+5
+9
+11
+A. Kolarov
+Lateral Izquierdo
+2
+6
+9
+18
+D. Santon
+Lateral Izquierdo
+2
+5
+9
+24
+A. Florenzi
+Lateral Derecho
+6
+7
+8
+7
+L. Pellegrini
+Meio Centro
+2
+6
+9
+4
+B. Cristante
+Medio Centro
+2
+6
+8
+22
+N. Zaniolo
+Medio Centro Ofensivo
+2
+3
+7
+27
+J. Pastore
+Medio Centro Ofensivo
+3
+4
+9
+34
+J. Kluivert
+Extremo Izquierdo
+1
+2
+18
+8
+D. Perotti
+Extremo Izquierdo
+1
+2
+18
+9
+E. Dzeko
+Delantero Centro

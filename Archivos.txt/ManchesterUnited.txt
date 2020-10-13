@@ -1,0 +1,97 @@
+16
+1
+6
+1
+1
+David de Gea 
+Portero
+4
+7
+18
+22
+Sergio Romero 
+Portero
+1
+6
+8
+13
+Victor Lindelof 
+Defensa Central
+4
+7
+19
+2
+Eric Bailly 
+Defensa Central
+7
+3
+18
+4
+Phil Jones 
+Defensa Central
+8
+3
+18
+23
+Luke Shaw 
+Lateral Izquierdo
+4
+7
+18
+18
+Ashley Young 
+Lateral Izquierdo
+3
+28
+6
+20
+Diogo Dalot 
+Lateral Izquierdo
+5
+8
+19
+6
+Paul Pogba 
+Medio Centro
+2
+7
+18
+21
+Ander Herrera 
+Medio Centro
+2
+4
+30
+21
+Scott McTominay 
+Medio Centro
+2
+7
+3
+7
+Alexis Sanchez 
+Extremo Izquierdo
+3
+7
+8
+8
+Juan Mata 
+Medio Centro Ofensivo
+2
+5
+19
+15
+Andreas Pereira 
+Medio Centro ofensivo
+1
+0
+28
+9
+Romelu Lukaku 
+Delantero Centro
+6
+7
+19
+10
+Marcus Rashford 
+Delantero Centro

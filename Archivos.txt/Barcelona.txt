@@ -1,0 +1,97 @@
+16
+0
+8
+0
+1
+Marc-Andre ter Stegen
+Portero
+6
+8
+9
+13
+Jasper Cillenssen
+Portero
+7
+6
+19
+23
+Samuel Umtiti
+Defensa Central
+5
+8
+19
+3
+Gerard Pique
+Defensa Central
+4
+7
+19
+17
+Jeison Murillo
+Defensa Central
+6
+8
+19
+18
+Jordi Alba
+Lateral Izquierdo
+9
+8
+17
+20
+Sergi Roberto
+Lateral Derecho
+5
+8
+18
+2
+Nelson Semedo
+Lateral Derecho
+4
+7
+18
+4
+Ivan Rakitic
+Medio Centro
+6
+18
+16
+21
+Carles Alena
+Medio Centro
+4
+18
+17
+22
+Arturo Vidal
+Medio Centro
+3
+7
+20
+7
+Philippe Coutinho
+Medio Centro Ofensivo
+4
+7
+19
+14
+Malcom
+Extremo Derecho
+5
+8
+20
+28
+Lionel Messi
+Extremo Derecho
+4
+6
+20
+9
+Luis Suarez
+Delantero Centro
+4
+8
+28
+19
+Kevin Pince Boateng
+Delantero Centro
